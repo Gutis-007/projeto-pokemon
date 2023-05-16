@@ -129,3 +129,11 @@ main .descricao {
     font-size: 14px;
     padding-right: 10px;
 }
+/* Alteraçoes Minhas */
+footer {
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+}
